@@ -1,0 +1,8 @@
+NUMSOIL     1
+INDEX   SILT    CLAY    OM      BD      KINF        KSATV       KSATH       MAXSMC  MINSMC  ALPHA   BETA    MACHF   MACVF   DMAC    QTZ
+1       39.00   20.00   2.50    1.41    3.436e-06   2.707e-06   2.707e-05   0.436   0.050   3.895   1.165   0.01    0.01    1.0     0.25
+DINF        0.10
+KMACV_RO    100.0
+KMACH_RO    1000.0
+
+
