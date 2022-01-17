@@ -15,6 +15,9 @@ export OMP_NUM_THREADS=12
 # Run spin-up
 ./flux-pihm -bo hydro_spinup WE38
 
+# Copy generated initial condition file to input directory
+cp output/hydro_spinup/restart/WE38.*.ic input/WE38/spinup2/WE38.ic
+
 jobend=`date +%s`
 echo -e "\nJob ended at `date`"
 dt=$((jobend - jobstart))
