@@ -42,7 +42,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                SoybeanMG.4
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.75
+FRACTION            0.67
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -120,7 +120,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.110
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.75
+FRACTION            0.67
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -227,7 +227,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                Alfalfa
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.25
+FRACTION            0.22
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -241,7 +241,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                Orchardgrass
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.50
+FRACTION            0.45
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -1007,7 +1007,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.110
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.75
+FRACTION            0.67
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -1125,7 +1125,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.110
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.75
+FRACTION            0.67
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -1190,4 +1190,3 @@ MIXING_EFFICIENCY   0.0
 CROP_NAME           CornRM.110
 FRAC_THERMAL_TIME   -999
 KILL_EFFICIENCY     -999
-

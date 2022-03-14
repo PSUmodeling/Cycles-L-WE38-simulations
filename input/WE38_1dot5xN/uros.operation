@@ -11,7 +11,7 @@ MIN_SOIL_TEMP           0.0
 CROP                    Alfalfa
 USE_AUTO_IRR            0
 USE_AUTO_FERT           0
-FRACTION                0.25
+FRACTION                0.22
 CLIPPING_START          1
 CLIPPING_END            366
 
@@ -25,6 +25,6 @@ MIN_SOIL_TEMP           0.0
 CROP                    Orchardgrass
 USE_AUTO_IRR            0
 USE_AUTO_FERT           0
-FRACTION                0.5
+FRACTION                0.45
 CLIPPING_START          1
 CLIPPING_END            366

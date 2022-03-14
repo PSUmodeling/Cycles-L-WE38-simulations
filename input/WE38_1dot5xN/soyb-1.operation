@@ -42,7 +42,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                SoybeanMG.4
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.75
+FRACTION            0.67
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -120,7 +120,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.110
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.75
+FRACTION            0.67
 CLIPPING_START      -999
 CLIPPING_END        -999
 
