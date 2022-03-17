@@ -25,8 +25,8 @@ LE              DAILY
 SH              DAILY
 G               0
 ETP             DAILY
-ESNOW           0
-ROOTW           0
+ESNOW           DAILY
+ROOTW           DAILY
 SOILM           DAILY
 SOLAR           0
 CH              0
