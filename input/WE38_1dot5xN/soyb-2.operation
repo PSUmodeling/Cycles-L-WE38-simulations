@@ -1,3 +1,4 @@
+# Soybean-corn
 ROTATION_SIZE           2
 AUTOMATIC_NITROGEN      0
 
@@ -185,4 +186,3 @@ MIXING_EFFICIENCY   0.0
 CROP_NAME           SoybeanMG.4
 FRAC_THERMAL_TIME   -999
 KILL_EFFICIENCY     -999
-
