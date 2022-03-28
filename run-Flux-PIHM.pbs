@@ -13,6 +13,8 @@ jobstart=`date +%s`
 export OMP_NUM_THREADS=12
 
 # Run spin-up
+git checkout HEAD input/WE38/WE38.para
+git checkout HEAD input/WE38/WE38.lsm
 ./flux-pihm -bo hydro_spinup WE38
 
 # Copy generated initial condition file to input directory
