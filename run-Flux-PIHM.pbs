@@ -19,6 +19,7 @@ git checkout HEAD input/WE38/WE38.lsm
 
 # Copy generated initial condition file to input directory
 cp output/hydro_spinup/restart/WE38.*.ic input/WE38/spinup2/WE38.ic
+cp output/hydro_spinup/restart/WE38.*.ic input/WE38_1dot5xN/spinup2/WE38_1dot5xN.ic
 
 jobend=`date +%s`
 echo -e "\nJob ended at `date`"
