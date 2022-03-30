@@ -440,7 +440,7 @@ S                   0.00        # kg/kg
 TILLAGE
 YEAR                5
 DOY                 219
-TOOL                Grain_Harvest
+TOOL                Forage_Harvest
 DEPTH               0.0         # m
 SOIL_DISTURB_RATIO  0.0
 MIXING_EFFICIENCY   0.0
