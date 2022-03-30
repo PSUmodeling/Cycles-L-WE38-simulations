@@ -1,13 +1,13 @@
-KSATH           3.5     # horizontal saturated hydraulic conductivity
-KSATV           2.0     # vertical saturated hydraulic conductivity
+KSATH           5.0     # horizontal saturated hydraulic conductivity
+KSATV           4.0     # vertical saturated hydraulic conductivity
 KINF            1.0     # vertical saturated hydraulic conductivity
-KMACSATH        4.0     # macropore horizontal saturated hydraulic conductivity
-KMACSATV        1.0     # macropore vertical saturated hydraulic conductivity
+KMACSATH        5.0     # macropore horizontal saturated hydraulic conductivity
+KMACSATV        8.0     # macropore vertical saturated hydraulic conductivity
 DROOT           1.0     # rooting depth
 DMAC            1.75    # macropore depth
-POROSITY        0.7     # soil porosity
+POROSITY        0.75    # soil porosity
 ALPHA           1.0     # van Genuchten alpha
-BETA            1.2     # van Genuchten beta (n)
+BETA            1.25    # van Genuchten beta (n)
 MACVF           5.0     # macropore area fraction on a vertical cross-section
 MACHF           5.0     # macropore area fraction on a horizontal cross-section
 VEGFRAC         1.0     # areal fractional coverage of green vegetation
