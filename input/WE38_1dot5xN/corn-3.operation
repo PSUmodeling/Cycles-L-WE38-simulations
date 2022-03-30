@@ -820,12 +820,12 @@ END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
 MIN_SOIL_TEMP       0.0         # C
-CROP                CornRM.110
+CROP                CornRM.90
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
 FRACTION            0.67
-CLIPPING_START      -999
-CLIPPING_END        -999
+CLIPPING_START      1
+CLIPPING_END        366
 
 FIXED_FERTILIZATION
 YEAR                5
@@ -866,28 +866,6 @@ P_CHARCOAL          0.00        # kg/kg
 P_INORGANIC         0.000       # kg/kg
 K                   0.00        # kg/kg
 S                   0.00        # kg/kg
-
-TILLAGE
-YEAR                5
-DOY                 288
-TOOL                Grain_Harvest
-DEPTH               0.0         # m
-SOIL_DISTURB_RATIO  0.0
-MIXING_EFFICIENCY   0.0
-CROP_NAME           CornRM.110
-FRAC_THERMAL_TIME   -999
-KILL_EFFICIENCY     -999
-
-TILLAGE
-YEAR                5
-DOY                 288
-TOOL                Kill_Crop
-DEPTH               0.0         # m
-SOIL_DISTURB_RATIO  0.0
-MIXING_EFFICIENCY   0.0
-CROP_NAME           CornRM.110
-FRAC_THERMAL_TIME   -999
-KILL_EFFICIENCY     -999
 
 FIXED_FERTILIZATION
 YEAR                6
@@ -938,12 +916,12 @@ END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
 MIN_SOIL_TEMP       0.0         # C
-CROP                CornRM.110
+CROP                CornRM.90
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
 FRACTION            0.67
-CLIPPING_START      -999
-CLIPPING_END        -999
+CLIPPING_START      1
+CLIPPING_END        366
 
 FIXED_FERTILIZATION
 YEAR                6
@@ -984,28 +962,6 @@ P_CHARCOAL          0.00        # kg/kg
 P_INORGANIC         0.000       # kg/kg
 K                   0.00        # kg/kg
 S                   0.00        # kg/kg
-
-TILLAGE
-YEAR                6
-DOY                 288
-TOOL                Grain_Harvest
-DEPTH               0.0         # m
-SOIL_DISTURB_RATIO  0.0
-MIXING_EFFICIENCY   0.0
-CROP_NAME           CornRM.110
-FRAC_THERMAL_TIME   -999
-KILL_EFFICIENCY     -999
-
-TILLAGE
-YEAR                6
-DOY                 288
-TOOL                Kill_Crop
-DEPTH               0.0         # m
-SOIL_DISTURB_RATIO  0.0
-MIXING_EFFICIENCY   0.0
-CROP_NAME           CornRM.110
-FRAC_THERMAL_TIME   -999
-KILL_EFFICIENCY     -999
 
 FIXED_FERTILIZATION
 YEAR                7
@@ -1049,30 +1005,8 @@ CROP                SoybeanMG.4
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
 FRACTION            0.67
-CLIPPING_START      -999
-CLIPPING_END        -999
-
-TILLAGE
-YEAR                7
-DOY                 288
-TOOL                Grain_Harvest
-DEPTH               0.0         # m
-SOIL_DISTURB_RATIO  0.0
-MIXING_EFFICIENCY   0.0
-CROP_NAME           SoybeanMG.4
-FRAC_THERMAL_TIME   -999
-KILL_EFFICIENCY     -999
-
-TILLAGE
-YEAR                7
-DOY                 288
-TOOL                Kill_Crop
-DEPTH               0.0         # m
-SOIL_DISTURB_RATIO  0.0
-MIXING_EFFICIENCY   0.0
-CROP_NAME           SoybeanMG.4
-FRAC_THERMAL_TIME   -999
-KILL_EFFICIENCY     -999
+CLIPPING_START      1
+CLIPPING_END        366
 
 FIXED_FERTILIZATION
 YEAR                8
@@ -1123,12 +1057,12 @@ END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
 MIN_SOIL_TEMP       0.0         # C
-CROP                CornRM.110
+CROP                CornRM.90
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
 FRACTION            0.67
-CLIPPING_START      -999
-CLIPPING_END        -999
+CLIPPING_START      1
+CLIPPING_END        366
 
 FIXED_FERTILIZATION
 YEAR                8
@@ -1169,25 +1103,3 @@ P_CHARCOAL          0.00        # kg/kg
 P_INORGANIC         0.000       # kg/kg
 K                   0.00        # kg/kg
 S                   0.00        # kg/kg
-
-TILLAGE
-YEAR                8
-DOY                 288
-TOOL                Grain_Harvest
-DEPTH               0.0         # m
-SOIL_DISTURB_RATIO  0.0
-MIXING_EFFICIENCY   0.0
-CROP_NAME           CornRM.110
-FRAC_THERMAL_TIME   -999
-KILL_EFFICIENCY     -999
-
-TILLAGE
-YEAR                8
-DOY                 288
-TOOL                Kill_Crop
-DEPTH               0.0         # m
-SOIL_DISTURB_RATIO  0.0
-MIXING_EFFICIENCY   0.0
-CROP_NAME           CornRM.110
-FRAC_THERMAL_TIME   -999
-KILL_EFFICIENCY     -999

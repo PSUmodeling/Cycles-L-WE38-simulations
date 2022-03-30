@@ -1,9 +1,9 @@
 ####################################################
 # CROP DESCRIPTION                                 #
 ####################################################
-NAME                                        CornRM.110
-FLOWERING_TT                                1300        # (degree C day)
-MATURITY_TT                                 2300        # (degree C day)
+NAME                                        CornRM.90
+FLOWERING_TT                                1000        # (degree C day)
+MATURITY_TT                                 1800        # (degree C day)
 MAXIMUM_SOIL_COVERAGE                       100         # (%)
 MAXIMUM_ROOTING_DEPTH                       0.7         # (m)
 AVERAGE_EXPECTED_YIELD                      1
