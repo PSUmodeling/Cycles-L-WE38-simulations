@@ -43,7 +43,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                Alfalfa
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.22
+FRACTION            0.25
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -57,7 +57,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                Orchardgrass
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.45
+FRACTION            0.5
 CLIPPING_START      -999
 CLIPPING_END        -999
 
@@ -823,7 +823,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.90
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.67
+FRACTION            0.75
 CLIPPING_START      1
 CLIPPING_END        366
 
@@ -919,7 +919,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.90
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.67
+FRACTION            0.75
 CLIPPING_START      1
 CLIPPING_END        366
 
@@ -1015,7 +1015,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.90
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.67
+FRACTION            0.75
 CLIPPING_START      1
 CLIPPING_END        366
 
@@ -1111,7 +1111,7 @@ MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.90
 USE_AUTO_IRR        0
 USE_AUTO_FERT       0
-FRACTION            0.67
+FRACTION            0.75
 CLIPPING_START      1
 CLIPPING_END        366
 
