@@ -9,7 +9,7 @@ SOURCE              BEEF-FR
 MASS                3500.00     # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.420       # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.030       # kg/kg
@@ -70,7 +70,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -90,7 +90,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -132,7 +132,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -174,7 +174,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -194,7 +194,7 @@ SOURCE              BEEF-FR
 MASS                3500.00     # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.420       # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.030       # kg/kg
@@ -214,7 +214,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -256,7 +256,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -298,7 +298,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -340,7 +340,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -404,7 +404,7 @@ SOURCE              BEEF-FR
 MASS                3500.00     # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.420       # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.030       # kg/kg
@@ -461,7 +461,7 @@ SOURCE              10-20-20
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -481,7 +481,7 @@ SOURCE              33-00-00
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -501,7 +501,7 @@ SOURCE              BEEF-FR
 MASS                3500.00     # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.420       # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.030       # kg/kg
@@ -558,7 +558,7 @@ SOURCE              10-20-20
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -578,7 +578,7 @@ SOURCE              33-00-00
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -598,7 +598,7 @@ SOURCE              BEEF-FR
 MASS                1875.00     # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.420       # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.030       # kg/kg
@@ -644,7 +644,7 @@ SOURCE              BEEF-FR
 MASS                3500.00     # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.420       # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.030       # kg/kg
@@ -701,7 +701,7 @@ SOURCE              10-20-20
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -721,7 +721,7 @@ SOURCE              33-00-00
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -741,7 +741,7 @@ SOURCE              BEEF-FR
 MASS                3500.00     # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.420       # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.030       # kg/kg
@@ -802,7 +802,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -822,7 +822,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -864,7 +864,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -906,7 +906,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -926,7 +926,7 @@ SOURCE              BEEF-FR
 MASS                3500.00     # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.420       # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.030       # kg/kg
@@ -946,7 +946,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -988,7 +988,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -1030,7 +1030,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
@@ -1072,7 +1072,7 @@ SOURCE              02-11-45
 MASS                100.00      # kg/ha
 FORM                N/A
 METHOD              N/A
-LAYER               1
+DEPTH               0.05        # m
 C_ORGANIC           0.00        # kg/kg
 C_CHARCOAL          0.00        # kg/kg
 N_ORGANIC           0.000       # kg/kg
