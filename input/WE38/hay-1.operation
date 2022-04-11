@@ -50,6 +50,7 @@ DOY                 121
 END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
+MAX_SOIL_TEMP       -999        # C
 MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.90
 USE_AUTO_IRR        0
@@ -146,6 +147,7 @@ DOY                 121
 END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
+MAX_SOIL_TEMP       -999        # C
 MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.90
 USE_AUTO_IRR        0
@@ -242,6 +244,7 @@ DOY                 121
 END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
+MAX_SOIL_TEMP       -999        # C
 MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.90
 USE_AUTO_IRR        0
@@ -338,6 +341,7 @@ DOY                 121
 END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
+MAX_SOIL_TEMP       -999        # C
 MIN_SOIL_TEMP       0.0         # C
 CROP                CornRM.90
 USE_AUTO_IRR        0
@@ -423,6 +427,7 @@ DOY                 105
 END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
+MAX_SOIL_TEMP       -999        # C
 MIN_SOIL_TEMP       0.0         # C
 CROP                Alfalfa
 USE_AUTO_IRR        0
@@ -437,6 +442,7 @@ DOY                 105
 END_DOY             -999
 MAX_SMC             -999        # m3/m3
 MIN_SMC             0.0         # m3/m3
+MAX_SOIL_TEMP       -999        # C
 MIN_SOIL_TEMP       0.0         # C
 CROP                Orchardgrass
 USE_AUTO_IRR        0
