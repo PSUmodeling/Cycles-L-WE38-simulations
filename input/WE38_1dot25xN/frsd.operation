@@ -1,0 +1,1118 @@
+# Forest
+ROTATION_SIZE       100
+AUTOMATIC_NITROGEN  1
+
+PLANTING
+YEAR                1
+DOY                 1
+END_DOY             -999
+MAX_SMC             -999
+MIN_SMC             0.0
+MAX_SOIL_TEMP       -999        # C
+MIN_SOIL_TEMP       0.0
+CROP                FRSD
+USE_AUTO_IRR        0
+USE_AUTO_FERT       1
+FRACTION            0.75
+CLIPPING_START      -999
+CLIPPING_END        -999
+
+TILLAGE
+YEAR                1
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                2
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                3
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                4
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                5
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                6
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                7
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                8
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                9
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                10
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                11
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                12
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                13
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                14
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                15
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                16
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                17
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                18
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                19
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                20
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                21
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                22
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                23
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                24
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                25
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                26
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                27
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                28
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                29
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                30
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                31
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                32
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                33
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                34
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                35
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                36
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                37
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                38
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                39
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                40
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                41
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                42
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                43
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                44
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                45
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                46
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                47
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                48
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                49
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                50
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                51
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                52
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                53
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                54
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                55
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                56
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                57
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                58
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                59
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                60
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                61
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                62
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                63
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                64
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                65
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                66
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                67
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                68
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                69
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                70
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                71
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                72
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                73
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                74
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                75
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                76
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                77
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                78
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                79
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                80
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                81
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                82
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                83
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                84
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                85
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                86
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                87
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                88
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                89
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                90
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                91
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                92
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                93
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                94
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                95
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                96
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                97
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                98
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                99
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                100
+DOY                 320
+TOOL                Forage_harvest
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           FRSD
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0

@@ -1,0 +1,1898 @@
+# Switchgrass. Fertilization same as Corn (4)-hay (4)
+ROTATION_SIZE           16
+AUTOMATIC_NITROGEN      0
+
+TILLAGE
+YEAR                1
+DOY                 90
+TOOL                Kill_Crop # This name is an operation; most are comments, but not this one!
+DEPTH               0
+SOIL_DISTURB_RATIO  0
+MIXING_EFFICIENCY   0
+CROP_NAME           N/A # This is not a comment line! the name is important
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     1.0
+
+TILLAGE
+YEAR                1
+DOY                 95
+TOOL                Chisel_st15
+DEPTH               0.21
+SOIL_DISTURB_RATIO  19
+MIXING_EFFICIENCY   0.27
+CROP_NAME           N/A
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                1
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                1
+DOY                 101
+TOOL                Antares_disk
+DEPTH               0.12
+SOIL_DISTURB_RATIO  25
+MIXING_EFFICIENCY   0.66
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                1
+DOY                 102
+TOOL                Cultivator
+DEPTH               0.15
+SOIL_DISTURB_RATIO  20
+MIXING_EFFICIENCY   0.27
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                1
+DOY                 103
+TOOL                Planter_double_disk_opnr
+DEPTH               0.03
+SOIL_DISTURB_RATIO  5
+MIXING_EFFICIENCY   0.07
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+PLANTING
+YEAR                1
+DOY                 103
+END_DOY             -999
+MAX_SMC             -999
+MIN_SMC             0.0
+MAX_SOIL_TEMP       -999        # C
+MIN_SOIL_TEMP       0.0
+CROP                Switchgrass
+USE_AUTO_IRR        0
+USE_AUTO_FERT       0
+FRACTION            0.75
+CLIPPING_START      1
+CLIPPING_END        366
+
+TILLAGE
+YEAR                1
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                1
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                1
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+
+FIXED_FERTILIZATION
+YEAR                1
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                1
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                1
+DOY                 305
+TOOL                Forage_Harvest
+DEPTH               0.0         # m
+SOIL_DISTURB_RATIO  0.0
+MIXING_EFFICIENCY   0.0
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   -999
+KILL_EFFICIENCY     -999
+
+FIXED_FERTILIZATION
+YEAR                2
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                2
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                2
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                2
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                2
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                2
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                3
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                3
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                3
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                3
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                4
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                4
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                4
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                4
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                5
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                5
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                5
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 207
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                5
+DOY                 259
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                6
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                6
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                6
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 207
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                6
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                7
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                7
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                7
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                7
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                7
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                7
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                7
+DOY                 202
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                7
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                8
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                8
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                8
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                8
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                8
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                8
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+year                8
+doy                 202
+source              02-11-45
+mass                100.00      # kg/ha
+form                n/a
+method              n/a
+depth               0.05        # m
+c_organic           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                8
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                9
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                9
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                9
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                9
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                9
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                9
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                10
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                10
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                10
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                10
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                10
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                10
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                11
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                11
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                11
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                11
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+
+FIXED_FERTILIZATION
+YEAR                11
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                11
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                12
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                12
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                12
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                12
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                12
+DOY                 121
+SOURCE              10-20-20
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.100       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.088       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                12
+DOY                 152
+SOURCE              33-00-00
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.330       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.000       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                13
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                13
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                13
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                13
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                13
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                13
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                13
+DOY                 207
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                13
+DOY                 259
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                14
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                14
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                14
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                14
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                14
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                14
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+
+FIXED_FERTILIZATION
+YEAR                14
+DOY                 207
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                14
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                15
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                15
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                15
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                15
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                15
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                15
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                15
+DOY                 202
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                15
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                16
+DOY                 100
+SOURCE              BEEF-FR
+MASS                3500.00     # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.420       # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.030       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.010       # kg/kg
+N_NO3               0.000       # kg/kg
+P_ORGANIC           0.007       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.004       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+TILLAGE
+YEAR                16
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               1.0
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.00625
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                16
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.5
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.025
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+TILLAGE
+YEAR                16
+DOY                 104
+TOOL                Perennial_bioturbation
+DEPTH               0.25
+SOIL_DISTURB_RATIO  1
+MIXING_EFFICIENCY   0.1
+CROP_NAME           Switchgrass
+FRAC_THERMAL_TIME   0.0
+KILL_EFFICIENCY     0.0
+
+FIXED_FERTILIZATION
+YEAR                16
+DOY                 105
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                16
+DOY                 167
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+year                16
+doy                 202
+source              02-11-45
+mass                100.00      # kg/ha
+form                n/a
+method              n/a
+depth               0.05        # m
+c_organic           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
+FIXED_FERTILIZATION
+YEAR                16
+DOY                 284
+SOURCE              02-11-45
+MASS                100.00      # kg/ha
+FORM                N/A
+METHOD              N/A
+DEPTH               0.05        # m
+C_ORGANIC           0.00        # kg/kg
+C_CHARCOAL          0.00        # kg/kg
+N_ORGANIC           0.000       # kg/kg
+N_CHARCOAL          0.00        # kg/kg
+N_NH4               0.000       # kg/kg
+N_NO3               0.020       # kg/kg
+P_ORGANIC           0.000       # kg/kg
+P_CHARCOAL          0.00        # kg/kg
+P_INORGANIC         0.048       # kg/kg
+K                   0.00        # kg/kg
+S                   0.00        # kg/kg
+
