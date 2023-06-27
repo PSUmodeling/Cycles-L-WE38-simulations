@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 
 import numpy as np
+import math
 from pihm import read_mesh
 
 def nse(obs, sim):
@@ -20,3 +21,9 @@ def read_cycles(simulation):
         mgmt.append(int(line.split()[1]))
 
     return num_elem, np.array(mgmt)
+
+def rmse(obs, sim):
+
+    e = (np.array(obs) - np.array(sim)) ** 2
+
+    return math.sqrt(e.mean())
