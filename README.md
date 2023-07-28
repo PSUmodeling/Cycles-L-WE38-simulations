@@ -19,13 +19,12 @@ have low and high denitrification rates within the corn (2 years)-soybean-corn-h
 
 ## Run
 
-Run land surface hydrological spin-up using `run-Flux-PIHM.pbs`.
+Run land surface hydrological spin-up using `run-Flux-PIHM.job`.
 
 Cycles-L runs should be submitted using
 
 ```shell
-qsub -v PROJECT=project run-Cycles-L.pbs
+sbatch --export=PROJECT=project ./run-Cycles-L.job
 ```
 
 where `project` is the name of the simulation, i.e., scenario.
-
